@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "spaceship_game",
+  "animation_test"
+  ,"foxtrot"
+]
